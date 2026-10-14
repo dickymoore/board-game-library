@@ -1,6 +1,6 @@
 # Dicky's Board Game Library
 
-A searchable catalogue of 76 owned game entries, with cover pictures, practical categories, descriptions, dated BoardGameGeek ratings and attributed community-review summaries.
+A searchable catalogue of 77 owned game entries, with cover pictures, practical categories, descriptions, dated BoardGameGeek ratings and attributed community-review summaries.
 
 Open `index.html`, or visit the GitHub Pages site. Search and filter by category or player count, then print the selection as a PDF. The downloadable HTML and full PDF can also be shared offline.
 
